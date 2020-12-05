@@ -1,12 +1,23 @@
+
+
+
+
+
+
 <!DOCTYPE html>
 <html lang="ja">
     
 <head>
     <meta charset="UTF-8">
-    <title>らんじぇりー</title>
+    <title>Lingeries</title>
     <link rel="stylesheet" href="stylesheet.css">
 </head>
 <body>
+<div id="menu">
+            <ul>
+                <li><a href="inputinfo.php">口コミの投稿</a></li>
+            </ul>
+        </div>
     <header>
         <h1>Lingeries</h1>
     </header>
